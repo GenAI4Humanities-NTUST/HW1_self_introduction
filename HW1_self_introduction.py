@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
+
 
 # HW1_self_introduction
 
@@ -17,4 +17,3 @@
 - - -
 
 ## 以下開始寫作業
-"""
